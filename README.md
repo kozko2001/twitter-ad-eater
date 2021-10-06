@@ -17,3 +17,5 @@ approach, instead on hook in the `addView` try to get the request that contains 
 remove the promotions.
 
 I did not test this properly, more than in my phone. But it works! Yeeey!
+
+Also, a lot of code is copied from somebody else... https://github.com/shuwenyouxi/XposeDemo/blob/master/app/src/main/java/com/dsw/xposeddemo/hook/ModifyOkHttpRequestHook.kt
